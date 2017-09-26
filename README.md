@@ -5,3 +5,5 @@
 ### 3. Greedy Algorithms
 
 *3.1 Gas Station*
+
+*3.2 Jump Game*
