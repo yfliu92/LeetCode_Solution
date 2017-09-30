@@ -3,6 +3,8 @@
 ### 2. Dynamic Programming
 *2.1 Continuous Subarray Sum*
 
+*2.2 Longest Increasing Subsequence*
+
 ---
 ### 3. Greedy Algorithms
 
