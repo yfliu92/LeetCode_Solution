@@ -15,3 +15,5 @@
 ---
 ### 4. Tree
 *4.1 Populating Next Right Pointers in Each Node*
+
+*4.2 Redundant Connection I & II*
