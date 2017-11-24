@@ -5,6 +5,8 @@
 
 *2.2 Longest Increasing Subsequence*
 
+*2.3 House Robber I, II & III*
+
 ---
 ### 3. Greedy Algorithms
 
