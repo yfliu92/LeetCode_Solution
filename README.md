@@ -23,3 +23,5 @@
 ---
 ### 5. Linked List
 *5.1 Palindrome Linked List*
+
+*5.2 Reverse Linked List*
