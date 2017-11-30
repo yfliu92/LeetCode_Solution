@@ -20,6 +20,8 @@
 
 *4.2 Redundant Connection I & II*
 
+*4.3 Lowest Common Ancestor of a Binary Tree*
+
 ---
 ### 5. Linked List
 *5.1 Palindrome Linked List*
